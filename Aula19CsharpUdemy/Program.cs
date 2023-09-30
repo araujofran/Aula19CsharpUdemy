@@ -19,6 +19,9 @@ namespace Aula19CsharpUdemy
             double delta = Math.Pow(b, 2.0) - 4.0 * a * c;
             double x1 = (-b + Math.Sqrt(delta)) / (2.0 * a);
             double x2 = (-b - Math.Sqrt(delta)) / (2.0 * a);
+
+            Console.WriteLine("Aula Retomando conceitos Básicos dentro do C#");
+
             Console.WriteLine(n1);
             Console.WriteLine(n2);
             Console.WriteLine(n3);
